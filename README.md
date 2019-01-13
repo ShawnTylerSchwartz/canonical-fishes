@@ -1,6 +1,6 @@
-# canonical-fishes 
+# recursive-canonical-fish-filenames
 
-## make-fishnames-canonical.sh
+## replace-spaces-in-filenames.sh
 
 ### Getting Started
 Place and run this shell script in the parent directory housing all subdirectories of Randall Fish Images to remove noncanonical spaces between Genus and species name.
